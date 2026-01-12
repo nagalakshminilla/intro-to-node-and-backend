@@ -1,5 +1,3 @@
-# Answers to Web Development Questions
-
 ## Q1. Role of Frontend (FE)
 
 The frontend is the part of a website that users see and interact with in their web browser. It includes things like buttons, text, images, and forms. When working on the frontend, the main goal is to make the website user-friendly and easy to navigate.
